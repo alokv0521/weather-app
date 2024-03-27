@@ -1,0 +1,25 @@
+{
+    "name" :"ai code buddy",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html"  ,
+        "default_icon":"128.png"
+    } ,
+    "icon":{
+        "16":"16.jpg",
+        "48":"48.jpg",
+        "128":"128.jpg"
+    },
+    "permission": ["activeTab"],
+
+
+
+
+
+
+
+
+    
+    "comments":"for best result , use the 16 bit icon"     
+}
